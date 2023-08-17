@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mihael3007
-- 📫 Reach me: Discord (@mihael2017)
+- 👉 Check out [Nanoshell](https://github.com/Kwadratz/nanoshell)!
+- 📫 Reach me on Discord (@mihael2017)
 
 <!---
 Mihael3007/Mihael3007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
