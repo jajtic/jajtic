@@ -1,4 +1,4 @@
-- 👉 Check out [sfls](https://github.com/jajtic/sfls)
+- 👉 Check out [songRecognitionDisplay](https://github.com/jajtic/songRecognitionDisplay)
 - 👀 Take a look at [Nanoshell](https://github.com/Kwadratz/nanoshell)
 - 📫 Reach me on Discord (@jajtic)
 
